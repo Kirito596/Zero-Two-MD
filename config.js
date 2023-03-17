@@ -34,7 +34,7 @@ global.owner = process.env.owner || ['491777062822'] //owner number, u can put m
 global.pemilik = ['919628516236' , '491777062722'] //another owner number
 global.premium = ['919628516236' , '491777062822'] //premium number
 global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
-global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Saber:saber001@kirito.are9qcw.mongodb.net/?retryWrites=true&w=majority"
 
 global.port = process.env.PORT || 5000
 global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
