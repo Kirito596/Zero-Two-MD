@@ -5,7 +5,7 @@
         Pakete . libwebp
         Pakete . Python
 	    Pakete . Knotenpakete . Typoskript
-        Pakete . flüssig
+        Pakete . flüssig 
         Pakete . ffmpeg
         Pakete . Bildmagie  
         Pakete . wget
